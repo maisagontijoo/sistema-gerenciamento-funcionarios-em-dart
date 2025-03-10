@@ -1,8 +1,6 @@
 import 'package:atividade3/atividade3.dart' as atividade3;
 import 'dart:io';
 
-// Desenvolva um sistema de cadastro de funcionários que permita adicionar, remover, aumentar salário e exibir informações dos funcionários.
-
 class Empresa {
   List<Funcionario> lista = <Funcionario>[];
 
